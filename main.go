@@ -2,5 +2,6 @@ package main
 
 func main() {
 	// ArrayTest()
-	LoopTest()
+	// LoopTest()
+	FunctionTest()
 }
